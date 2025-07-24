@@ -53,7 +53,6 @@ The app includes a `PlaygroundScreen` where you can test prompt-based commands. 
 
 ---
 
-## r more details on Flutter testing, refer to the [Flutter Testing Documentation](https://docs.flutter.dev/cookbook/testing/).
 
 
 
